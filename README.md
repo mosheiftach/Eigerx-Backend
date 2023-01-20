@@ -7,4 +7,4 @@ Few coding challenges by Eigerx, backend development
 
 3-Recursive Digit Summer - written in GO
 
-4-Recursive Numeric Sequencer- written in JavaScript (functional language)
+4- (BONUS) Recursive Numeric Sequencer- written in JavaScript (functional language)
